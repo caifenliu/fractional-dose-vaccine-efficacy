@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+
+# Environment variables
+.env
+
+# Temporary files
+*.log
