@@ -1,0 +1,8 @@
+,Study,Vaccine,LOD,NeutMean,NeutConv,NumberIndividualsVaccine,SDPool,SDVaccine,NumberIndividualsConv
+1,El Sahly et al. 2021,mRNA-1273,0,654.3,158.3,14,0.4924901,0.2919,3
+2,Sadoff et al. 2022,Ad26.COV2.S ,0,321,522,75,0.4924901,0.6306,32
+3,Voysey et al. 2021,ChAdOx1 nCoV-19,0,32,59,9,0.4924901,0.2441,5
+4,Al Kaabi et al. 2021,WIBP ,5,134,215.8,84,0.4924901,0.5226,50
+5,Al Kaabi et al. 2021,BBIBP-CorV,2,282.7,198,84,0.4924901,0.4985,NA
+6,Ella et al. 2021,BBV152,0,161.8,36.4,190,0.4924901,0.7586,50
+7,Convalescence,Convalescent,20,55.7943,55.7943,NA,NA,NA,64

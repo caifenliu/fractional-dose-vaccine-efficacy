@@ -1,0 +1,13 @@
+vaccine_type,neutralization,neutralization_lower,neutralization_upper,dose,age,measured_day
+mRNA,0.1,0.0214,0.1785,0.25,All,42
+mRNA,0.7462,0.7262,0.7662,0.75,All,42
+mRNA,0.5674,0.4564,0.6785,1,All,42
+Inactivated,-0.1277,-0.1783,-0.077,0.5,All,42
+Inactivated,0.1131,0.0894,0.1367,1,All,42
+Protein subunit,0.0635,-0.1218,0.2489,0.25,All,56
+Protein subunit,0.2981,0.1817,0.4145,1,All,42
+Viral vector,-0.2112,-0.3539,-0.0684,1,All,70
+Viral vector,-0.0991,-0.2059,0.0077,2,All,56
+DNA,-0.8115,-0.9851,-0.6379,0.5,All,28
+DNA,-0.9389,-1.0938,-0.7839,1,All,28
+Convalescent,0,NA,NA,1,All,NA
